@@ -76,7 +76,8 @@ Hasil prediksi tidak bisa dijadikan sebagai diagnosa medis final tanpa validasi 
 
 ## Cara Menjalankan  
 1. Install dependencies:  
-   ```bash pip install tensorflow numpy matplotlib opencv-python scikit-learn pillow
-Siapkan dataset MRI otak.
-Jalankan script pelatihan model.
-Gunakan model untuk prediksi gambar MRI baru.```
+   ```bash pip install tensorflow numpy matplotlib opencv-python scikit-learn pillow```
+   
+2.Siapkan dataset MRI otak.
+3.Jalankan script pelatihan model.
+4.Gunakan model untuk prediksi gambar MRI baru.
